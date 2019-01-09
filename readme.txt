@@ -6,6 +6,8 @@ structure in order to keep the lists up-to-date.
 
 I recommend that the first step be transaction 6 as that will print out the text files and load them into their respective linked lists. Then you may select any transaction you would like. Let's say you wanted to run transaction 2 for instance. You would look at the cars in rented linked list, choose one from the list and enter the details when prompted. The program will then move that specific car to the available for rent linked list and free it from the rented linked list. That is how you should go about running the program.
 
+Run it on terminal by entering "make" followed by "./rental" to run the program.
+
 Transaction 1 : 
 prompts user for plate number and mileage
 Puts the prompted information into the available-for-rent linked list 
